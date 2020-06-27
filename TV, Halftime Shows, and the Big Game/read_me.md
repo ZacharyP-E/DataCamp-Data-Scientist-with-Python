@@ -1,1 +1,1 @@
-A projecct completed for the Data Scientist with Python course on DataCamp. Project was completed on 26th Jun 2020.  
+A projecct completed for the Data Scientist with Python track on DataCamp. Project was completed on 26th Jun 2020 using knowledge learnt during the Introduction to Python and Intermediate Python courses. 
